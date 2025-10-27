@@ -77,3 +77,5 @@ By setting logging level to high it includes all blocked packets and connection 
 - For Denied Traffic: Sudo grep 'DENY' /var/log/ufw.log
 
 ![sudo grep](./Images%20UFW/sudo%20grep%20'DENY'%20DENY'%20:var:log:ufw.log.png)
+
+Since there are no unauthorized or blocked connections attempts during logging period ther is no out put for DENY.
