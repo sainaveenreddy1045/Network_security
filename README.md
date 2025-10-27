@@ -11,3 +11,6 @@ It shows my skills in usind Linex, Checking network traffic, and understand basi
 
 ### 2. UFW (Uncomplicated Firewall)
 [UFW](./UFW.md)
+
+### 3. Exploring Snort
+[Snort](./Snort.md)
